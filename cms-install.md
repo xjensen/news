@@ -56,6 +56,26 @@ We need to configure some environment variables in Azure to get our OAuth functi
 
 > More securely storing the OAUTH_CLIENT_SECRET is left as an exercise for the reader, and probably differs depending upon standards at CDT.
 
+## Accessing the CMS
+
+13. Go to `https://news.alpha.ca.gov/cms`.
+
+## Local Development
+
+14. Editing articles should be done on the live site. When you want to *do development* on the CMS itself, such as create new content widgets, run the following command (from the site's directory) in a terminal.
+
+```npx netlify-cms-proxy-server```
+
+(This requires the `netlify-cms-proxy-server` from npm.)
+
+Then run the usual `serve` command in another terminal at the same time.
+
+```npm run serve```
+
+Any articles you "publish" with the proxy active will commit to the local git repo, rather than going to GitHub. You could still later push those local commits live if you want.
+
+
+
 
 
 
