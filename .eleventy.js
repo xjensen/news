@@ -1,6 +1,10 @@
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig) {
+  eleventyConfig.addPassthroughCopy({ "src/css": "css" });
+  eleventyConfig.addPassthroughCopy({ "src/img": "img" });
+  eleventyConfig.addPassthroughCopy({ "src/CNAME": "/" });
+
   eleventyConfig.addCollection("mySort", function(collection) {
     let posts = [];
     collection.getAll().forEach( (item) => {
