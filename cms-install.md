@@ -1,5 +1,7 @@
 # CMS Installation
 
+Procedure for installing Netlify CMS. I'm assuming all files are current with this forked repo.
+
 ## Install Azure OAuth Functions
 
 To allow people to log into the new CMS with their GitHub accounts, we need to facilitate OAuth transactions. We can do this with [a group of Azure App Functions I built for this purpose](https://github.com/xjensen/azure-oauth-functions).
@@ -19,6 +21,41 @@ In the repo for the site, we need to point the CMS to these Azure functions.
 4. Put your Azure Function App's root URL (from step #2) into the `backend/base_url` field.
 
 5. If needed, change `auth_endpoint` to match how your Azure Function App routes, if different.
+
+6. Deploy these changes to the site.
+
+## Configure a GitHub OAuth app.
+
+On the GitHub side, we need to set up an OAuth app to allow logins from the CMS.
+
+7. Check out [instructions for creating an OAuth app](https://docs.github.com/en/free-pro-team@latest/developers/apps/creating-an-oauth-app). It's not too complicated.
+
+8. You'll need to enter some values when you get to the "Register a new OAuth application" page. 
+
+* **Application Name** is what internal authors/editors will see when they log in for the first time and accept access. It should look official: `news.alpha.ca.gov Content Management` or something similar. 
+* **Homepage url** should be `https://news.alpha.ca.gov/cms`.
+* **Application Description** can be whatever you want.
+* **Authorization callback URL** is the URL to the Callback function in the Azure Function App. 
+
+> Example: https://canews-oauth-functions.azurewebsites.net/api/callback
+
+9. Do it! When your GitHub OAuth app is created, take note of the **Client ID**. You'll also need to generate a **Client secret**. We'll need these two values next.
+
+## Configure Azure OAuth Functions
+
+We need to configure some environment variables in Azure to get our OAuth functions working.
+
+10. Go to the dashboard for our new Azure Function App, as deployed in steps #1 and #2.
+
+11. Click into the Settings/Configuration area.
+
+12. We're going to enter some new Application settings. **Save** when done.
+
+* Set `REDIRECT_URL` to the same value we entered for the **Authorization callback URL** on the GitHub OAuth app.
+* Set `OAUTH_CLIENT_ID` and `OAUTH_CLIENT_SECRET` with correponding values from the GitHub OAuth App.
+
+> More securely storing the OAUTH_CLIENT_SECRET is left as an exercise for the reader, and probably differs depending upon standards at CDT.
+
 
 
 
