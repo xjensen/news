@@ -3,7 +3,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/css": "css" });
   eleventyConfig.addPassthroughCopy({ "src/img": "img" });
-  eleventyConfig.addPassthroughCopy({ "src/CNAME": "/" });
+  eleventyConfig.addPassthroughCopy({ "src/CNAME": "CNAME" });
   eleventyConfig.addPassthroughCopy({ "src/cms": "cms" });
 
   eleventyConfig.addCollection("mySort", function(collection) {
