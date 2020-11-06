@@ -58,6 +58,6 @@ collections:
 
       - label: "Tag List"
         name: "tags"
-        widget: "list"
-        default: ["news"]
+        widget: "string"
+        default: "news"
 
