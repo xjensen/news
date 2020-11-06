@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 01/28/2020
 tags: news
 ---
-<figure class="figure"><img src="{{ previewimage }}" class="" alt="Photo of a sticky note that says &quot;En espanol.&quot;" '=""></figure>
+<figure class="figure"><img src="/img/En-espanol-thumb.jpg" class="" alt="Photo of a sticky note that says &quot;En espanol.&quot;"><figcaption class="figure-caption"></figcaption></figure>
 
 We hope you noticed that the first release of [Alpha.CA.gov](https://www.Alpha.CA.gov.com) prototypes included Spanish language versions.
 
