@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run serve",
-    "serve": "npx @11ty/eleventy --serve --formats=html,njk --input ./posts"
+    "serve": "npx @11ty/eleventy --serve"
   },
   "keywords": [],
   "author": "",

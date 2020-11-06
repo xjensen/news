@@ -13,4 +13,12 @@ module.exports = function(eleventyConfig) {
     }).reverse();
   });
   eleventyConfig.addPlugin(pluginRss);
+
+  return {
+    templateFormats: ["html", "md", "njk"],
+    dir: {
+      input: "posts",
+      output: "_site",
+    }
+  };
 };
