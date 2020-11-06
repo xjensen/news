@@ -8,7 +8,7 @@ author: Michael Sullivan
 publishdate: 11/06/2020
 tags: news
 ---
-<!--StartFragment-->
+![A screenshot of the ODI style guide](/img/style-guide.png "A screenshot of ODI's new style guide")
 
 When we started working on [alpha.ca.gov](https://alpha.ca.gov) we defined our [design principles](https://news.alpha.ca.gov/alpha-ca-gov-design-principles/). They included:
 
@@ -40,5 +40,3 @@ The last point is important. The content style guide is not done. It’s a docum
 In keeping with our principle of Do less, we’re hosting the style guide in our [github wiki](https://github.com/cagov/covid19/wiki). We chose this solution because formatting the content for github needed minimal work.
 
 Much like Alpha, the content style guide is the first step in transforming the very words we use and ways we communicate with Californians. We’ve only begun our journey, but we know where we want to go and are moving there little by little.
-
-<!--EndFragment-->
