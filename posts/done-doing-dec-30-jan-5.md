@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 01/06/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/done-doing.jpeg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
+<figure class="figure"><img src="/img/done-doing.jpeg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
 
 Done/doing is a recap of what we’ve done this week and what we have in our sprint plan for the week ahead. While many of us were out for the holidays, a lot of work was still getting done. This post covers the week of December 30-January 5.
 

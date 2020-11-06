@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 05/10/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/COVID19-Done-doing.jpg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
+<figure class="figure"><img src="/img/COVID19-Done-doing.jpg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
 
 Done/doing is a recap of what we’ve done this week and what we have in our sprint plan for the week ahead. This post covers the week of May 4-May 10.
 

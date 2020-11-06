@@ -10,7 +10,7 @@ author: JP Petrucione
 publishdate: 01/08/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/product-framing.jpeg" class="" alt="Product framing"><figcaption class="figure-caption">Product framing</figcaption></figure>
+<figure class="figure"><img src="/img/product-framing.jpeg" class="" alt="Product framing"><figcaption class="figure-caption">Product framing</figcaption></figure>
 
 Product framing helps our team think about and focus on the problem we’re here to solve.
 

@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 02/21/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/Done-Doing-0221.jpg" class="" alt="Summary of Github issue #387 on the Alpha whiteboard"><figcaption class="figure-caption">Photo of a whiteboard with a summary of Github issue #387 for Alpha’s Release 3.</figcaption></figure>
+<figure class="figure"><img src="/img/Done-Doing-0221.jpg" class="" alt="Summary of Github issue #387 on the Alpha whiteboard"><figcaption class="figure-caption">Photo of a whiteboard with a summary of Github issue #387 for Alpha’s Release 3.</figcaption></figure>
 
 Done/doing is a recap of what we’ve done this week and what we have in our sprint plan for the week ahead. This post covers the week of February 17-February 23.
 

@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 12/17/2019
 tags: news
 ---
-<figure class="figure"><img src="../img/operational-principles.jpg" class="" alt="Alpha.CA.gov operational principles"><figcaption class="figure-caption">Alpha.CA.gov operational principles</figcaption></figure>
+<figure class="figure"><img src="/img/operational-principles.jpg" class="" alt="Alpha.CA.gov operational principles"><figcaption class="figure-caption">Alpha.CA.gov operational principles</figcaption></figure>
 
 Our operational principles guide how our team works.
 

@@ -10,5 +10,47 @@
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script src="https://unpkg.com/turndown/dist/turndown.js"></script>
+  <script>
+    var turndownService = new TurndownService()
+
+    // Accordion editor
+    CMS.registerEditorComponent({
+      // Internal id of the component
+      id: "figure",
+      // Visible label
+      label: "Figure",
+      // Fields the user need to fill out when adding an instance of the component
+      fields: [
+        {name: 'src', label: 'Image', widget: 'image'},
+        {name: 'alt', label: 'Alt Text', widget: 'string'},
+        {name: 'caption', label: 'Caption', widget: 'string'}
+      ],
+      // Pattern to identify a block as being an instance of this component
+      pattern: /^<figure class\="figure">\s*<img src\="([^\s]*?)".+?alt\="(.*?)">\s*<figcaption class\="figure-caption">(.*?)<\/figcaption>\s*<\/figure>$/,
+      // Function to extract data elements from the regexp match
+      fromBlock: function(match) {
+        return {
+          src: match[1],
+          alt: match[2],
+          caption: match[3]
+        };
+      },
+      // Function to create a text block from an instance of this component
+      toBlock: function(obj) {
+        return (`<figure class="figure">
+  <img src="${obj.src}" class="" alt="${obj.alt}">
+  <figcaption class="figure-caption">${obj.caption}</figcaption>
+</figure>`);
+      },
+      // Preview output for this component. Can either be a string or a React component
+      // (component gives better render performance)
+      toPreview: function(obj) {
+        return (`<figure class="figure">
+  <img style="max-width: 100%" src="${obj.src}" class="" alt="${obj.alt}">
+  <figcaption class="figure-caption">${obj.caption}</figcaption>
+</figure>`); 
+      }
+    });
+    </script>
 </body>
 </html>

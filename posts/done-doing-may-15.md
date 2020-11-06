@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 05/17/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/COVID19-Done-doing_0515.jpg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
+<figure class="figure"><img src="/img/COVID19-Done-doing_0515.jpg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
 
 And herewith, please find this week’s list of things we’ve done and what we’re doing for the week ahead. This post covers the week of May 11-May 17.
 

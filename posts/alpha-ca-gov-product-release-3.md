@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 03/11/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/Cover-Release-3.jpg" class="" alt="A complete list of all Alpha.CA.gov user stories."><figcaption class="figure-caption">A complete list of all Alpha.CA.gov user stories.</figcaption></figure>
+<figure class="figure"><img src="/img/Cover-Release-3.jpg" class="" alt="A complete list of all Alpha.CA.gov user stories."><figcaption class="figure-caption">A complete list of all Alpha.CA.gov user stories.</figcaption></figure>
 
 The first phase of the Alpha.CA.gov initiative wrapped up this past Friday with the release of eight new prototypes:
 
@@ -63,17 +63,17 @@ As with all of our work, these newest prototypes are presented to you as works i
 *   [GitHub issue #64](https://github.com/cagov/UX/issues/64)
 *   [Baseline](https://www.cpuc.ca.gov/lifeline/)
 
-<figure class="figure"><img src="../img/lifeline-baseline-transaction-landing-S-page.jpg" alt="Screenshot of current Lifeline Services baseline."><figcaption class="figure-caption">Screenshot of current Lifeline Services baseline.</figcaption></figure>
+<figure class="figure"><img src="/img/lifeline-baseline-transaction-landing-S-page.jpg" alt="Screenshot of current Lifeline Services baseline."><figcaption class="figure-caption">Screenshot of current Lifeline Services baseline.</figcaption></figure>
 
 We tested and iterated multiple prototypes, including:
 
-<figure class="figure"><img src="../img/lifeline-eligibility-before-testing-1.jpg" alt="Screenshot of Alpha.CA.gov design prototype for " check="" if="" you="" can="" get="" a="" discounted="" phone="" service”"=""><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Check if you can get a discounted phone service”</figcaption></figure>
+<figure class="figure"><img src="/img/lifeline-eligibility-before-testing-1.jpg" alt="Screenshot of Alpha.CA.gov design prototype for " check="" if="" you="" can="" get="" a="" discounted="" phone="" service”"=""><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Check if you can get a discounted phone service”</figcaption></figure>
 
-<figure class="figure"><img src="../img/lifeline-eligibility-before-testing-question-2-S.jpg" alt="Screenshot of Alpha.CA.gov design prototype for " check="" if="" you="" can="" get="" a="" discounted="" phone="" service”"=""><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Check if you can get a discounted phone service”</figcaption></figure>
+<figure class="figure"><img src="/img/lifeline-eligibility-before-testing-question-2-S.jpg" alt="Screenshot of Alpha.CA.gov design prototype for " check="" if="" you="" can="" get="" a="" discounted="" phone="" service”"=""><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Check if you can get a discounted phone service”</figcaption></figure>
 
-<figure class="figure"><img src="../img/lifeline-eligibility-before-testing-question-3-S.jpg" alt="Screenshot of Alpha.CA.gov design prototype for " check="" if="" you="" can="" get="" a="" discounted="" phone="" service”"=""><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Check if you can get a discounted phone service”</figcaption></figure>
+<figure class="figure"><img src="/img/lifeline-eligibility-before-testing-question-3-S.jpg" alt="Screenshot of Alpha.CA.gov design prototype for " check="" if="" you="" can="" get="" a="" discounted="" phone="" service”"=""><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Check if you can get a discounted phone service”</figcaption></figure>
 
-<figure class="figure"><img src="../img/lifeline-apply-online-before-testing-S.jpg" alt="Screenshot of Alpha.CA.gov design prototype for " check="" if="" you="" can="" get="" a="" discounted="" phone="" service”"=""><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Check if you can get a discounted phone service”</figcaption></figure>
+<figure class="figure"><img src="/img/lifeline-apply-online-before-testing-S.jpg" alt="Screenshot of Alpha.CA.gov design prototype for " check="" if="" you="" can="" get="" a="" discounted="" phone="" service”"=""><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Check if you can get a discounted phone service”</figcaption></figure>
 
 User feedback and takeaways included:
 
@@ -89,15 +89,15 @@ User feedback and takeaways included:
 Our assumption: Water safety and accessibility is one of California's most significant issues. We assume that informing Californians of the quality of the water they drink is a need and one that is not currently being met. We sought to answer two questions: where does my water come from and what is my water quality? We then wanted to point people to a place where they could learn more. We hope to test if addressing these questions gets us closer to meeting the need.*   [GitHub issue #90](https://github.com/cagov/UX/issues/90)
 *   [Baseline](https://www.waterboards.ca.gov/water_issues/programs/hr2w/)
 
-<figure class="figure"><img src="../img/Water-Baseline.jpg" alt="Screenshot of the current CA.gov “Check your tap water quality” page."><figcaption class="figure-caption">Screenshot of the current CA.gov “Check your tap water quality”</figcaption></figure>
+<figure class="figure"><img src="/img/Water-Baseline.jpg" alt="Screenshot of the current CA.gov “Check your tap water quality” page."><figcaption class="figure-caption">Screenshot of the current CA.gov “Check your tap water quality”</figcaption></figure>
 
 We tested and iterated three prototypes:
 
-<figure class="figure"><img src="../img/Water-Prototype-Safe-to-drink-v2-S.jpeg" alt="Screenshot of Alpha.CA.gov design prototype for “Check your tap water quality."><figcaption class="figure-caption">Screenshot of the current CA.gov “Check your tap water quality” page.</figcaption></figure>
+<figure class="figure"><img src="/img/Water-Prototype-Safe-to-drink-v2-S.jpeg" alt="Screenshot of Alpha.CA.gov design prototype for “Check your tap water quality."><figcaption class="figure-caption">Screenshot of the current CA.gov “Check your tap water quality” page.</figcaption></figure>
 
-<figure class="figure"><img src="../img/Water-Prototype-Safe-to-drink-v3-S.jpeg" alt="Screenshot of Alpha.CA.gov design prototype for “Check your tap water quality."><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Check your tap water quality.”</figcaption></figure>
+<figure class="figure"><img src="/img/Water-Prototype-Safe-to-drink-v3-S.jpeg" alt="Screenshot of Alpha.CA.gov design prototype for “Check your tap water quality."><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Check your tap water quality.”</figcaption></figure>
 
-<figure class="figure"><img src="../img/Water-Prototype-Unsafe-to-drink-v2-S.jpeg" alt="Screenshot of Alpha.CA.gov design prototype for “Check your tap water quality."><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Check your tap water quality.”</figcaption></figure>
+<figure class="figure"><img src="/img/Water-Prototype-Unsafe-to-drink-v2-S.jpeg" alt="Screenshot of Alpha.CA.gov design prototype for “Check your tap water quality."><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Check your tap water quality.”</figcaption></figure>
 
 User feedback and takeaways included:
 
@@ -127,7 +127,7 @@ User feedback and takeaways included:
 *   [GitHub issue #65](https://github.com/cagov/UX/issues/65)
 *   [Baseline](https://cold.govops.ca.gov/)
 
-<figure class="figure"><img src="../img/Contact Agency_Baseline.jpg" alt="Screenshot of the current CA.gov “Contact a state agency” page."><figcaption class="figure-caption">Screenshot of the current CA.gov “Prepare for a wildfire" page."</figcaption></figure>
+<figure class="figure"><img src="/img/Contact Agency_Baseline.jpg" alt="Screenshot of the current CA.gov “Contact a state agency” page."><figcaption class="figure-caption">Screenshot of the current CA.gov “Prepare for a wildfire" page."</figcaption></figure>
 
 *   Limited bandwidth meant that we ended up testing this prototype internally with Alpha team staff members.
 *   Check out the iterated “[Contact a state agency](https://www.alpha.ca.gov/contact-us/)”
@@ -140,11 +140,11 @@ User feedback and takeaways included:
 *   [GitHub issue #98](https://github.com/cagov/UX/issues/98)
 *   [Baseline](https://www.caloes.ca.gov/individuals-families)
 
-<figure class="figure"><img src="../img/Wildfire-Preparedness-Baseline.jpg" alt="Screenshot of the current CA.gov “Prepare for a wildfire” page."><figcaption class="figure-caption">Screenshot of the current CA.gov “Prepare for a wildfire" page."</figcaption></figure>
+<figure class="figure"><img src="/img/Wildfire-Preparedness-Baseline.jpg" alt="Screenshot of the current CA.gov “Prepare for a wildfire” page."><figcaption class="figure-caption">Screenshot of the current CA.gov “Prepare for a wildfire" page."</figcaption></figure>
 
 We tested and iterated one prototype:
 
-<figure class="figure"><img src="../img/Prepare Wildfire-Prototype-1.jpg" alt="Prepare for a wildfire" prototype."=""><figcaption class="figure-caption">"Prepare for a wildfire" prototype.</figcaption></figure>
+<figure class="figure"><img src="/img/Prepare Wildfire-Prototype-1.jpg" alt="Prepare for a wildfire" prototype."=""><figcaption class="figure-caption">"Prepare for a wildfire" prototype.</figcaption></figure>
 
 User feedback and takeaways included:
 

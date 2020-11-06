@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 12/11/2019
 tags: news
 ---
-<figure class="figure"><img src="../img/hello-california.jpg" class="" alt="Hello California"><figcaption class="figure-caption">Hello California</figcaption></figure>
+<figure class="figure"><img src="/img/hello-california.jpg" class="" alt="Hello California"><figcaption class="figure-caption">Hello California</figcaption></figure>
 
 Fellow Californians,
 

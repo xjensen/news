@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 02/07/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/GH-Issue-303.jpg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
+<figure class="figure"><img src="/img/GH-Issue-303.jpg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
 
 Done/doing is a recap of what we’ve done this week and what we have in our sprint plan for the week ahead.
 

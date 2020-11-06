@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 02/21/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/APIs-Blog-Postman-Screenshot-1.jpg" class="" alt="Alpha.CA.gov API Postman repository"><figcaption class="figure-caption">A screenshot of the Alpha.CA.gov API Postman repository</figcaption></figure>
+<figure class="figure"><img src="/img/APIs-Blog-Postman-Screenshot-1.jpg" class="" alt="Alpha.CA.gov API Postman repository"><figcaption class="figure-caption">A screenshot of the Alpha.CA.gov API Postman repository</figcaption></figure>
 
 When we kicked off Alpha, we did not expect to develop a suite of APIs. But as we started tackling user stories, we realized that many of them required the same data. So we iterated - and adopted an API first approach.
 

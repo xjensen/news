@@ -10,7 +10,7 @@ author: JP Petrucione
 publishdate: 12/06/2019
 tags: news
 ---
-<figure class="figure"><img alt="Alpha.CA.gov team" class="" width="" height="" src="../img/alpha-team.jpeg"><figcaption class="figure-caption">Alpha.CA.gov team</figcaption></figure>
+<figure class="figure"><img src="/img/alpha-team.jpeg" class="" alt="Alpha.CA.gov team"><figcaption class="figure-caption">Alpha.CA.gov team</figcaption></figure>
 
 Our new team has a big job. We’re working to make it easier for Californians to access, understand and use digital information and services.
 

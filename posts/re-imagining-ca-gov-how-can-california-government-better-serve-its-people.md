@@ -10,7 +10,7 @@ author: Angelica B. Quirarte Arias
 publishdate: 11/31/2019
 tags: news
 ---
-<figure class="figure"><img alt="How might we?" class="" width="" height="" src="../img/how-might-we.jpeg"><figcaption class="figure-caption">How might we?</figcaption></figure>
+<figure class="figure"><img alt="How might we?" class="" width="" height="" src="/img/how-might-we.jpeg"><figcaption class="figure-caption">How might we?</figcaption></figure>
 
 Over the last decade, governments around the world have started asking themselves, “How can we use digital to better serve our people?”
 

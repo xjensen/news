@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 01/21/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/done-doing.jpeg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
+<figure class="figure"><img src="/img/done-doing.jpeg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
 
 Done/doing is a recap of what we’ve done this week and what we have in our sprint plan for the week ahead. This post covers the week of January 13-January 19.
 

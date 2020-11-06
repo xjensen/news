@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 01/13/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/homepage-alpha.png" class="" alt="Alpha.CA.gov homepage banner."><figcaption class="figure-caption">Alpha.CA.gov homepage banner.</figcaption></figure>
+<figure class="figure"><img src="/img/homepage-alpha.png" class="" alt="Alpha.CA.gov homepage banner."><figcaption class="figure-caption">Alpha.CA.gov homepage banner.</figcaption></figure>
 
 ## Please test this work in progress!
 
@@ -48,7 +48,7 @@ Below, we’ve tried to capture a before/after for each user story, as well as s
 
 *   [Baseline](http://ca.gov/)
 
-<figure class="figure"><img src="../img/cadotgov-homepage.png" alt="CA.gov homepage"><figcaption class="figure-caption">Baseline for the current CA.gov homepage</figcaption></figure>
+<figure class="figure"><img src="/img/cadotgov-homepage.png" alt="CA.gov homepage"><figcaption class="figure-caption">Baseline for the current CA.gov homepage</figcaption></figure>
 
 Check out the iterated [homepage](http://www.alpha.ca.gov)
 
@@ -57,15 +57,15 @@ Check out the iterated [homepage](http://www.alpha.ca.gov)
 *   [GitHub issue](http://www.https://GitHub.com/cagov/UX/issues/43)
 *   [Baseline](https://www.dir.ca.gov/dlse/faq_minimumwage.htm)
 
-<figure class="figure"><img src="../img/baseline-minimum-wage.png" alt="Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”</figcaption></figure>
+<figure class="figure"><img src="/img/baseline-minimum-wage.png" alt="Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”</figcaption></figure>
 
 We tested and iterated three prototypes
 
-<figure class="figure"><img src="../img/proto-minimum-wage-1.png" alt="Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”</figcaption></figure>
+<figure class="figure"><img src="/img/proto-minimum-wage-1.png" alt="Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”</figcaption></figure>
 
-<figure class="figure"><img src="../img/proto-minimum-wage-2.png" alt="Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”</figcaption></figure>
+<figure class="figure"><img src="/img/proto-minimum-wage-2.png" alt="Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”</figcaption></figure>
 
-<figure class="figure"><img src="../img/proto-minimum-wage-3.png" alt="Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”</figcaption></figure>
+<figure class="figure"><img src="/img/proto-minimum-wage-3.png" alt="Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Find your minimum wage.”</figcaption></figure>
 
 User feedback & takeaways included:
 
@@ -81,13 +81,13 @@ Check out the iterated “[Find your minimum wage](https://alpha.ca.gov/services
 *   [GitHub issue](https://GitHub.com/cagov/UX/issues/53)
 *   [Baseline](https://www.cdph.ca.gov/Programs/CHSI/Pages/Obtaining-Certified-Copies-Online.aspx#)
 
-<figure class="figure"><img src="../img/request-a-birth-certificate.png" alt="Screenshot of the current CA.gov “Request a birth certificate” page."><figcaption class="figure-caption">Screenshot of the current CA.gov “Request a birth certificate” page."</figcaption></figure>
+<figure class="figure"><img src="/img/request-a-birth-certificate.png" alt="Screenshot of the current CA.gov “Request a birth certificate” page."><figcaption class="figure-caption">Screenshot of the current CA.gov “Request a birth certificate” page."</figcaption></figure>
 
 We tested and iterated two prototypes:
 
-<figure class="figure"><img src="../img/proto-birth-certificate-1.png" alt="Screenshot of Alpha.CA.gov design prototype for “Request a birth certificate.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Request a birth certificate.”</figcaption></figure>
+<figure class="figure"><img src="/img/proto-birth-certificate-1.png" alt="Screenshot of Alpha.CA.gov design prototype for “Request a birth certificate.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Request a birth certificate.”</figcaption></figure>
 
-<figure class="figure"><img src="../img/proto-birth-certificate-2.png" alt="Screenshot of the current CA.gov “Request a birth certificate”"><figcaption class="figure-caption">Screenshot of the current CA.gov “Request a birth certificate” page."</figcaption></figure>
+<figure class="figure"><img src="/img/proto-birth-certificate-2.png" alt="Screenshot of the current CA.gov “Request a birth certificate”"><figcaption class="figure-caption">Screenshot of the current CA.gov “Request a birth certificate” page."</figcaption></figure>
 
 User feedback & takeaways included:
 
@@ -103,13 +103,13 @@ Check out the iterated “[Request a birth certificate](https://alpha.ca.gov/ser
 *   [GitHub issue](https://GitHub.com/cagov/UX/issues/52)
 *   [Baseline](https://www.calhr.ca.gov/employees/pages/state-holidays.aspx)
 
-<figure class="figure"><img src="../img/baseline-state-holidays.png" alt="Screenshot of the current CA.gov “Find official California state holidays” page." "=""><figcaption class="figure-caption">Screenshot of the current CA.gov “Find official California state holidays” page."</figcaption></figure>
+<figure class="figure"><img src="/img/baseline-state-holidays.png" alt="Screenshot of the current CA.gov “Find official California state holidays” page." "=""><figcaption class="figure-caption">Screenshot of the current CA.gov “Find official California state holidays” page."</figcaption></figure>
 
 We tested and iterated two prototypes:
 
-<figure class="figure"><img src="../img/proto-state-holidays-1.png" alt="Screenshot of the current CA.gov “Screenshot of Alpha.CA.gov design prototype for “Find official California state holidays.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Find official California state holidays.”</figcaption></figure>
+<figure class="figure"><img src="/img/proto-state-holidays-1.png" alt="Screenshot of the current CA.gov “Screenshot of Alpha.CA.gov design prototype for “Find official California state holidays.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Find official California state holidays.”</figcaption></figure>
 
-<figure class="figure"><img src="../img/proto-state-holidays-2.png" alt="Screenshot of the current CA.gov “Screenshot of Alpha.CA.gov design prototype for “Find official California state holidays.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Find official California state holidays.”</figcaption></figure>
+<figure class="figure"><img src="/img/proto-state-holidays-2.png" alt="Screenshot of the current CA.gov “Screenshot of Alpha.CA.gov design prototype for “Find official California state holidays.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Find official California state holidays.”</figcaption></figure>
 
 User feedback & takeaways included:
 
@@ -124,13 +124,13 @@ Check out the iterated “[Find official California state holidays](https://alph
 *   [GitHub issue](https://GitHub.com/cagov/UX/issues/38)
 *   [Baseline](https://www.cslb.ca.gov/Consumers/Hire_A_Contractor/)
 
-<figure class="figure"><img src="../img/home-improvements.png" alt="Screenshot of the current CA.gov “Hire a contractor for home improvements” page.”"><figcaption class="figure-caption">Screenshot of the current CA.gov “Hire a contractor for home improvements” page.</figcaption></figure>
+<figure class="figure"><img src="/img/home-improvements.png" alt="Screenshot of the current CA.gov “Hire a contractor for home improvements” page.”"><figcaption class="figure-caption">Screenshot of the current CA.gov “Hire a contractor for home improvements” page.</figcaption></figure>
 
 We tested and iterated two prototypes (including one paper prototype):
 
-<figure class="figure"><img src="../img/proto-home-improvements-1.png" alt="Screenshot of Alpha.CA.gov design prototype for “Hire a licensed contractor for home improvements.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Hire a licensed contractor for home improvements.”</figcaption></figure>
+<figure class="figure"><img src="/img/proto-home-improvements-1.png" alt="Screenshot of Alpha.CA.gov design prototype for “Hire a licensed contractor for home improvements.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Hire a licensed contractor for home improvements.”</figcaption></figure>
 
-<figure class="figure"><img src="../img/proto-home-improvements-2.jpeg" alt="Screenshot of Alpha.CA.gov design prototype for “Hire a licensed contractor for home improvements.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Hire a licensed contractor for home improvements.”</figcaption></figure>
+<figure class="figure"><img src="/img/proto-home-improvements-2.jpeg" alt="Screenshot of Alpha.CA.gov design prototype for “Hire a licensed contractor for home improvements.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Hire a licensed contractor for home improvements.”</figcaption></figure>
 
 User feedback & takeaways included:
 
@@ -146,11 +146,11 @@ Check out the iterated “[Hire a licensed contractor for home improvements](htt
 *   [GitHub issue](https://GitHub.com/cagov/UX/issues/33)
 *   [Baseline](https://www.cdss.ca.gov/food-banks)
 
-<figure class="figure"><img src="../img/baseline-food-banks.png" alt="Screenshot of the current CA.gov “Find food banks near you” page."><figcaption class="figure-caption">Screenshot of the current CA.gov “Find food banks near you” page.</figcaption></figure>
+<figure class="figure"><img src="/img/baseline-food-banks.png" alt="Screenshot of the current CA.gov “Find food banks near you” page."><figcaption class="figure-caption">Screenshot of the current CA.gov “Find food banks near you” page.</figcaption></figure>
 
 We tested and iterated one prototype:
 
-<figure class="figure"><img src="../img/proto-food-banks.png" alt="Screenshot of the Alpha.CA.gov design prototype for “Find food banks near you.”"><figcaption class="figure-caption">Screenshot of the Alpha.CA.gov design prototype for “Find food banks near you.”</figcaption></figure>
+<figure class="figure"><img src="/img/proto-food-banks.png" alt="Screenshot of the Alpha.CA.gov design prototype for “Find food banks near you.”"><figcaption class="figure-caption">Screenshot of the Alpha.CA.gov design prototype for “Find food banks near you.”</figcaption></figure>
 
 User feedback & takeaways included:
 

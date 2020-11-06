@@ -75,11 +75,11 @@ As we add new features, it can be difficult to keep tabs on how our performance 
 
 This is how Calibre reports our changes to Slack:
 
-<figure class="figure"><img src="../img/perf-monitor.jpg" class="" alt="Monitoring performance in slack"><figcaption class="figure-caption">Calibre reporting performance metrics to slack</figcaption></figure>
+<figure class="figure"><img src="/img/perf-monitor.jpg" class="" alt="Monitoring performance in slack"><figcaption class="figure-caption">Calibre reporting performance metrics to slack</figcaption></figure>
 
 We can use this same data to report to our dashboards. This helps us with visibility to the whole team, not just the engineers.
 
-<figure class="figure"><img src="../img/dashboard.jpg" class="" alt="Monitoring performance in slack"><figcaption class="figure-caption">Performance and Accessibility widgets in data studio dashboards</figcaption></figure>
+<figure class="figure"><img src="/img/dashboard.jpg" class="" alt="Monitoring performance in slack"><figcaption class="figure-caption">Performance and Accessibility widgets in data studio dashboards</figcaption></figure>
 
 ### Getting expert advice
 
@@ -89,7 +89,7 @@ We were stoked to have  Alex’s deep expertise benefit COVID19.CA.gov. And we�
 
 Overall, Alex found that the covid19.ca.gov site was fast, rendered quickly and finished all operations faster than similar sites, which helps users get the information they need quickly and easily.
 
-<figure class="figure"><a href="https://s3.amazonaws.com/www.whatupwebdev.com/assets/ca_covid_19_comparison_video.mp4"><img src="../img/webpagetest.jpg" class="" alt="WebPageTest Comparison timeline"></a><figcaption class="figure-caption">Web Page Test timeline comparison</figcaption></figure>
+<figure class="figure"><a href="https://s3.amazonaws.com/www.whatupwebdev.com/assets/ca_covid_19_comparison_video.mp4"><img src="/img/webpagetest.jpg" class="" alt="WebPageTest Comparison timeline"></a><figcaption class="figure-caption">Web Page Test timeline comparison</figcaption></figure>
 
 ## Interactivity with APIs
 
@@ -97,7 +97,7 @@ Overall, Alex found that the covid19.ca.gov site was fast, rendered quickly and 
 
 API endpoints running on FAAS allow us to keep our backend code in isolated, cheap, scalable components. The [@CAdotGov](https://twitter.com/cadotgov) team is running infrastructure mostly on Azure. [Carter Medlin](https://twitter.com/CarterMedlin) set up the first APIs on Azure’s FAAS services. 
 
-<figure class="figure"><img src="../img/api-alpha.jpg" class="" alt="api.alpha.ca.gov screenshot"><figcaption class="figure-caption"><a href="https://api.alpha.ca.gov">https://api.alpha.ca.gov</a></figcaption></figure>
+<figure class="figure"><img src="/img/api-alpha.jpg" class="" alt="api.alpha.ca.gov screenshot"><figcaption class="figure-caption"><a href="https://api.alpha.ca.gov">https://api.alpha.ca.gov</a></figcaption></figure>
 
 ## Stability via pregeneration
 
@@ -119,7 +119,7 @@ We were able to decouple WordPress authoring from reading by using its built in 
 
 We then used [a Github Action](https://github.com/marketplace/actions/eleventy-action-plus-rss) to trigger 11ty builds and deploy to a browseable github pages branch which then triggers the deploy to our Azure production environment 
 
-<figure class="figure"><img src="../img/webAppReferenceArchitecture.jpg" class="" alt="Web App Reference Architecture"></figure>
+<figure class="figure"><img src="/img/webAppReferenceArchitecture.jpg" class="" alt="Web App Reference Architecture"></figure>
 
 ## It’s not over
 

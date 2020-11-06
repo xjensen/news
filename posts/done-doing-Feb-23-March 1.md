@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 02/28/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/Window-Sign-What-Were-Doing.jpg" class="" alt="Done/doing"><figcaption class="figure-caption">Sign in the window of Alpha.CA.gov HQ that explains the team’s work.</figcaption></figure>
+<figure class="figure"><img src="/img/Window-Sign-What-Were-Doing.jpg" class="" alt="Done/doing"><figcaption class="figure-caption">Sign in the window of Alpha.CA.gov HQ that explains the team’s work.</figcaption></figure>
 
 As with last week, we’re focused on Release 3. You can get up to date on what’s been done and is still doing in [Github Issue #387](https://github.com/cagov/Alpha/issues/387). A few toplines below.
 

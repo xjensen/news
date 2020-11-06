@@ -8,7 +8,10 @@ author: JP Petrucione
 publishdate: 01/10/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/done-doing.jpeg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
+<figure class="figure">
+  <img src="/img/done-doing.jpeg" class="" alt="Done/doing">
+  <figcaption class="figure-caption">Done/doing</figcaption>
+</figure>
 
 Our work this week has been focused on releasing our first round of prototypes. As we speak, we’re elbows deep in the final push to finish Spanish translations, domain name clean up, purging the CDN, troubleshooting cache issues, QAing, and a million other critical details.
 

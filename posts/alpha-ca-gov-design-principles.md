@@ -10,7 +10,7 @@ author: JP Petrucione
 publishdate: 12/19/2019
 tags: news
 ---
-<figure class="figure"><img src="../img/design-principles.jpg" class="" alt="Alpha.CA.gov design principles"><figcaption class="figure-caption">Alpha.CA.gov design principles</figcaption></figure>
+<figure class="figure"><img src="/img/design-principles.jpg" class="" alt="Alpha.CA.gov design principles"><figcaption class="figure-caption">Alpha.CA.gov design principles</figcaption></figure>
 
 Design principles help teams and stakeholders to align on design vision and decision-making.
 

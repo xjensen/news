@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 05/27/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/COVID19-Done-doing.jpg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
+<figure class="figure"><img src="/img/COVID19-Done-doing.jpg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
 
 A little late is better than never. Last week’s done and this week’s doing for your perusal.
 

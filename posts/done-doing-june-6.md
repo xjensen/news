@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 06/06/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/COVID19-Done-doing.jpg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
+<figure class="figure"><img src="/img/COVID19-Done-doing.jpg" class="" alt="Done/doing"><figcaption class="figure-caption">Done/doing</figcaption></figure>
 
 We’re super excited about the work we’re doing. In particular, we continue to hear from Californians about their experience with the impact of COVID-19. And our dev team is doing amazing work making site content even more accessible by making it even easier to find.
 

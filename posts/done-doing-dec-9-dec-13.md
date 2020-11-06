@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 12/13/2019
 tags: news
 ---
-<figure class="figure"><img src="../img/stand-up.jpeg" class="" alt="Team stand-up"><figcaption class="figure-caption"></figcaption></figure>
+<figure class="figure"><img src="/img/stand-up.jpeg" class="" alt="Team stand-up"><figcaption class="figure-caption"></figcaption></figure>
 
 Done/Doing is a recap of what Team Alpha has done this week and what we have in our sprint plan for the week ahead. This post is the first in what will be a weekly series delivered every Friday.
 

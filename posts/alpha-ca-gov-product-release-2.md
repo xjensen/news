@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 02/10/2020
 tags: news
 ---
-<figure class="figure"><img src="../img/Release-2-Cover-Image.jpg" class="" alt="Alpha.CA.gov homepage banner."><figcaption class="figure-caption">A list of Release 2 deliverables written on the whiteboard.</figcaption></figure>
+<figure class="figure"><img src="/img/Release-2-Cover-Image.jpg" class="" alt="Alpha.CA.gov homepage banner."><figcaption class="figure-caption">A list of Release 2 deliverables written on the whiteboard.</figcaption></figure>
 
 ## Always learning, always iterating
 
@@ -59,7 +59,7 @@ As with all of our work, these new prototypes are works in progress. We welcome 
 
 *   Baseline
 
-<figure class="figure"><img src="../img/Release-2-Homepage-Baseline.jpg" alt="CA.gov homepage"><figcaption class="figure-caption">Baseline for the prior release of Alpha.CA.gov homepage</figcaption></figure>
+<figure class="figure"><img src="/img/Release-2-Homepage-Baseline.jpg" alt="CA.gov homepage"><figcaption class="figure-caption">Baseline for the prior release of Alpha.CA.gov homepage</figcaption></figure>
 
 *   Check out the [iterated homepage](https://alpha.ca.gov/)
 
@@ -70,11 +70,11 @@ As with all of our work, these new prototypes are works in progress. We welcome 
 *   [GitHub issue](https://github.com/cagov/UX/issues/35)
 *   [Baseline](https://www.csac.ca.gov/cal-grants )
 
-<figure class="figure"><img src="../img/Release-2-Cal-Grants-Baseline.jpg" alt="Screenshot of current Cal Grant baseline."><figcaption class="figure-caption">Screenshot of current Cal Grant baseline.</figcaption></figure>
+<figure class="figure"><img src="/img/Release-2-Cal-Grants-Baseline.jpg" alt="Screenshot of current Cal Grant baseline."><figcaption class="figure-caption">Screenshot of current Cal Grant baseline.</figcaption></figure>
 
 We tested and iterated one prototype. This was our first multi-page user story.
 
-<figure class="figure"><img src="../img/Release-2-Cal-Grant-Prototype-before-testing.jpg" alt="Screenshot of Alpha.CA.gov design prototype for " apply="" for="" a="" cal="" grant.”"=""><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Apply for a Cal Grant.”</figcaption></figure>
+<figure class="figure"><img src="/img/Release-2-Cal-Grant-Prototype-before-testing.jpg" alt="Screenshot of Alpha.CA.gov design prototype for " apply="" for="" a="" cal="" grant.”"=""><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for “Apply for a Cal Grant.”</figcaption></figure>
 
 User feedback and takeaways included:
 
@@ -89,15 +89,15 @@ Check out the iterated “[Apply for a Cal Grant](https://alpha.ca.gov/apply-for
 *   [GitHub issue](https://github.com/cagov/UX/issues/72)
 *   [Baseline](https://www.edd.ca.gov/disability/DI_Claim_Process.htm)
 
-<figure class="figure"><img src="../img/Release-2-apply-for-disability-Baseline.jpg" alt="Screenshot of the current CA.gov “Apply for disability benefits” page."><figcaption class="figure-caption">Screenshot of the current CA.gov “Apply for disability insurance benefits” page."</figcaption></figure>
+<figure class="figure"><img src="/img/Release-2-apply-for-disability-Baseline.jpg" alt="Screenshot of the current CA.gov “Apply for disability benefits” page."><figcaption class="figure-caption">Screenshot of the current CA.gov “Apply for disability insurance benefits” page."</figcaption></figure>
 
 We tested and iterated two prototypes at a local EDD field office with help from our friends at the CHHS Office of Innovation:
 
-<figure class="figure"><img src="../img/Release-2-Disability-Insurance-Testing.jpeg" alt="The CHHS Office of Innovation team field testing the " apply="" for="" disability="" insurance="" benefits"="" prototype="" at="" an="" edd="" field="" office."=""><figcaption class="figure-caption">The CHHS Office of Innovation team field testing the "Apply for disability insurance benefits" prototype at an EDD field office.</figcaption></figure>
+<figure class="figure"><img src="/img/Release-2-Disability-Insurance-Testing.jpeg" alt="The CHHS Office of Innovation team field testing the " apply="" for="" disability="" insurance="" benefits"="" prototype="" at="" an="" edd="" field="" office."=""><figcaption class="figure-caption">The CHHS Office of Innovation team field testing the "Apply for disability insurance benefits" prototype at an EDD field office.</figcaption></figure>
 
-<figure class="figure"><img src="../img/Release-2-apply-for-disability-insurance-Prototype-1.jpg" alt="Screenshot of Alpha.CA.gov design prototype for “Apply for disability insurance.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for ““Apply for disability insurance benefits.”</figcaption></figure>
+<figure class="figure"><img src="/img/Release-2-apply-for-disability-insurance-Prototype-1.jpg" alt="Screenshot of Alpha.CA.gov design prototype for “Apply for disability insurance.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for ““Apply for disability insurance benefits.”</figcaption></figure>
 
-<figure class="figure"><img src="../img/Release-2-apply-for-disability-insurance-Prototype-2.jpg" alt="Screenshot of Alpha.CA.gov design prototype for “Apply for disability insurance benefits.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for ““Apply for disability insurance benefits.”</figcaption></figure>
+<figure class="figure"><img src="/img/Release-2-apply-for-disability-insurance-Prototype-2.jpg" alt="Screenshot of Alpha.CA.gov design prototype for “Apply for disability insurance benefits.”"><figcaption class="figure-caption">Screenshot of Alpha.CA.gov design prototype for ““Apply for disability insurance benefits.”</figcaption></figure>
 
 User feedback and takeaways included:
 
@@ -112,19 +112,19 @@ Check out the iterated “[Apply for disability insurance benefits](https://alph
 *   User story: As a driver, I need to know the CONDITION OF THE ROADS so that I can stay safe.
 *   This was an interesting one. The assumption was that people get the road information they need from Google Maps or other navigation apps. But in our initial research, we found that there’s a data gap between what Google displays and real-time Caltrans road closures. We even saw some cases where people were being routed onto closed roads.
 
-<figure class="figure"><img src="../img/Release-2-Road-Conditions-Road-Closure.jpg" alt="AA road sign on Highway 88 referencing the fact that road closures on 88 aren't included in the information navigation apps provide currently." "=""><figcaption class="figure-caption">A road sign on Highway 88 referencing the fact that road closures on 88 aren't included in the information navigation apps provide currently.</figcaption></figure>
+<figure class="figure"><img src="/img/Release-2-Road-Conditions-Road-Closure.jpg" alt="AA road sign on Highway 88 referencing the fact that road closures on 88 aren't included in the information navigation apps provide currently." "=""><figcaption class="figure-caption">A road sign on Highway 88 referencing the fact that road closures on 88 aren't included in the information navigation apps provide currently.</figcaption></figure>
 
 *   We wanted to test how building an API could help the user experience by providing more accurate data that is not always reflected in their mapping app of choice. This story tests road closures and road conditions. It is not scoped to access data outside California’s border. It also tests a way to display map data in an accessible format.
 *   [GitHub issue](https://GitHub.com/cagov/UX/issues/37)
 *   [Baseline](https://roads.dot.ca.gov/)
 
-<figure class="figure"><img src="../img/Release-2-Road-Conditions-Baseline.jpg" alt="Screenshot of the current CA.gov road conditions page." "=""><figcaption class="figure-caption">Screenshot of the current CA.gov road conditions page.</figcaption></figure>
+<figure class="figure"><img src="/img/Release-2-Road-Conditions-Baseline.jpg" alt="Screenshot of the current CA.gov road conditions page." "=""><figcaption class="figure-caption">Screenshot of the current CA.gov road conditions page.</figcaption></figure>
 
 We tested and iterated two prototypes:
 
-<figure class="figure"><img src="../img/Release 2_Road-conditions-Prototype-before-testing-3.jpg" alt="Screenshot of the Alpha.CA.gov design prototype for “Check lane closures for your trip."><figcaption class="figure-caption">Screenshot of the Alpha.CA.gov design prototype for “Check lane closures for your trip.”</figcaption></figure>
+<figure class="figure"><img src="/img/Release 2_Road-conditions-Prototype-before-testing-3.jpg" alt="Screenshot of the Alpha.CA.gov design prototype for “Check lane closures for your trip."><figcaption class="figure-caption">Screenshot of the Alpha.CA.gov design prototype for “Check lane closures for your trip.”</figcaption></figure>
 
-<figure class="figure"><img src="../img/Release 2_Road-conditions-Prototype-before-testing-4.jpg" alt="Screenshot of the Alpha.CA.gov design prototype for “Check lane closures for your trip"><figcaption class="figure-caption">Screenshot of the Alpha.CA.gov design prototype for “Check lane closures for your trip.”</figcaption></figure>
+<figure class="figure"><img src="/img/Release 2_Road-conditions-Prototype-before-testing-4.jpg" alt="Screenshot of the Alpha.CA.gov design prototype for “Check lane closures for your trip"><figcaption class="figure-caption">Screenshot of the Alpha.CA.gov design prototype for “Check lane closures for your trip.”</figcaption></figure>
 
 User feedback & takeaways included:
 
