@@ -8,10 +8,8 @@ author: Everyman
 publishdate: 11/05/2020
 tags: news
 ---
-
 This is a test.
 
 ## A Bold Test!
 
-
-
+Live edit.
