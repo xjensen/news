@@ -23,7 +23,7 @@
       fields: [
         {name: 'src', label: 'Image', widget: 'image'},
         {name: 'alt', label: 'Alt Text', widget: 'string'},
-        {name: 'caption', label: 'Caption', widget: 'string'}
+        {name: 'cutline', label: 'Cutline', widget: 'string'}
       ],
       // Pattern to identify a block as being an instance of this component
       pattern: /^<figure class\="figure">\s*<img src\="([^\s]*?)".+?alt\="(.*?)">\s*<figcaption class\="figure-caption">(.*?)<\/figcaption>\s*<\/figure>$/,
@@ -32,14 +32,14 @@
         return {
           src: match[1],
           alt: match[2],
-          caption: match[3]
+          cutline: match[3]
         };
       },
       // Function to create a text block from an instance of this component
       toBlock: function(obj) {
         return (`<figure class="figure">
   <img src="${obj.src}" class="" alt="${obj.alt}">
-  <figcaption class="figure-caption">${obj.caption}</figcaption>
+  <figcaption class="figure-caption">${obj.cutline}</figcaption>
 </figure>`);
       },
       // Preview output for this component. Can either be a string or a React component
@@ -47,7 +47,7 @@
       toPreview: function(obj) {
         return (`<figure class="figure">
   <img style="max-width: 100%" src="${obj.src}" class="" alt="${obj.alt}">
-  <figcaption class="figure-caption">${obj.caption}</figcaption>
+  <figcaption class="figure-caption">${obj.cutline}</figcaption>
 </figure>`); 
       }
     });
