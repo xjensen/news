@@ -8,7 +8,7 @@ author: JP Petrucione
 publishdate: 09/29/2020
 tags: news
 ---
-<figure class="“figure”"><img src="/img/Cover-image.jpg" alt="Blueprint"><figcaption class="figure-caption">Screenshot of the new county-specific open/closed tool.</figcaption></figure>
+<figure class="figure"><img src="/img/Cover-image.jpg" alt="Blueprint"><figcaption class="figure-caption">Screenshot of the new county-specific open/closed tool.</figcaption></figure>
 
 Government information and services can be difficult for the average user to make sense of, even in the best of times. As we face COVID-19 and wildfires, the need to make sure Californians have the information and access to services that they need is more critical than ever - and more challenging.
 
@@ -46,7 +46,7 @@ In a nutshell: people want to know what they can and can’t do so they can plan
 
 Our site analytics clearly showed that most users were navigating to just two pages when they landed on the site: “County variance info,” where county-specific information is available and the Stay Home Q & A, which is designed to answer questions about essential and non-essential needs and activities.
 
-<figure class="“figure”"><img src="/img/County-variance.png" class="img-fluid" alt="variance"><figcaption class="figure-caption">Screenshot of the prior county variance page.</figcaption></figure>
+<figure class="figure"><img src="/img/County-variance.png" class="img-fluid" alt="variance"><figcaption class="figure-caption">Screenshot of the prior county variance page.</figcaption></figure>
 
   
 
@@ -66,7 +66,7 @@ Beginning as early as May, we started to think about simple ways to address one 
 
 Our team built an initial prototype, that we dubbed “project alameda haircut,” named to reflect user feedback, and in particular a user in Alameda who asked us about whether and when they can get a haircut.
 
-<figure class="“figure”"><img src="/img/Project-Alameda-Haircut.png" class="“img-fluid" alt="Haircut"><figcaption class="figure-caption">Screenshot of the “project alameda haircut” prototype.</figcaption></figure>
+<figure class="figure"><img src="/img/Project-Alameda-Haircut.png" class="“img-fluid" alt="Haircut"><figcaption class="figure-caption">Screenshot of the “project alameda haircut” prototype.</figcaption></figure>
 
   
 
