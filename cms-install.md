@@ -10,7 +10,7 @@ To allow people to log into the new CMS with their GitHub accounts, we need to f
 
 2. After deployment to Azure, take note of the Function App's root URL. We'll be using this. 
 
-> Example: https://canews-oauth-functions.azurewebsites.net/
+> Example: https://fa-go-alph-blg-001.azurewebsites.net
 
 ## Configure the CMS files
 
@@ -19,6 +19,8 @@ In the repo for the site, we need to point the CMS to these Azure functions.
 3. Open this file: src/cms/config.yml
 
 4. Put your Azure Function App's root URL (from step #2) into the `backend/base_url` field.
+
+> Example: https://fa-go-alph-blg-001.azurewebsites.net
 
 5. If needed, change `auth_endpoint` to match how your Azure Function App routes, if different.
 
@@ -37,7 +39,7 @@ On the GitHub side, we need to set up an OAuth app to allow logins from the CMS.
 * **Application Description** can be whatever you want.
 * **Authorization callback URL** is the URL to the Callback function in the Azure Function App. 
 
-> Example: https://canews-oauth-functions.azurewebsites.net/api/callback
+> Example: https://fa-go-alph-blg-001.azurewebsites.net/api/callback
 
 9. Do it! When your GitHub OAuth app is created, take note of the **Client ID**. You'll also need to generate a **Client secret**. We'll need these two values next.
 
@@ -52,6 +54,9 @@ We need to configure some environment variables in Azure to get our OAuth functi
 12. We're going to enter some new Application settings. **Save** when done.
 
 * Set `REDIRECT_URL` to the same value we entered for the **Authorization callback URL** on the GitHub OAuth app.
+
+> Example: https://fa-go-alph-blg-001.azurewebsites.net/api/callback
+
 * Set `OAUTH_CLIENT_ID` and `OAUTH_CLIENT_SECRET` with correponding values from the GitHub OAuth App.
 
 > More securely storing the OAUTH_CLIENT_SECRET is left as an exercise for the reader, and probably differs depending upon standards at CDT.
