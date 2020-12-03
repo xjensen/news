@@ -16,7 +16,7 @@ To allow people to log into the new CMS with their GitHub accounts, we need to f
 
 In the repo for the site, we need to point the CMS to these Azure functions.
 
-3. Open this file: src/cms/config.yml
+3. Open this file: [src/cms/config.yml](https://github.com/xjensen/news/blob/master/src/cms/config.yml)
 
 4. Put your Azure Function App's root URL (from step #2) into the `backend/base_url` field.
 
